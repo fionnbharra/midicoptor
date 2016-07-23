@@ -11,5 +11,9 @@
     "midi"
   ],
   "author": "finbar sheahan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "midi": "^0.9.5",
+    "timbre": "^14.11.25"
+  }
 }
